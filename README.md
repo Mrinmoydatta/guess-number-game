@@ -15,7 +15,6 @@ A simple and fun **number guessing game** with a **graphical user interface (GUI
 
 ## Screenshot
 
-*(Add your own screenshot of the running GUI)*  
 ![Number Guessing Game Screenshot](screenshot.png)
 
 ---
